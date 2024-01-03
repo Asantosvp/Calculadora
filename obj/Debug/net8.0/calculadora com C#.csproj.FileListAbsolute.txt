@@ -1,0 +1,15 @@
+C:\Users\Amand\OneDrive\Área de Trabalho\calculadora com C#\obj\Debug\net8.0\calculadora com C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amand\OneDrive\Área de Trabalho\calculadora com C#\obj\Debug\net8.0\calculadora com C#.AssemblyInfoInputs.cache
+C:\Users\Amand\OneDrive\Área de Trabalho\calculadora com C#\obj\Debug\net8.0\calculadora com C#.AssemblyInfo.cs
+C:\Users\Amand\OneDrive\Área de Trabalho\calculadora com C#\obj\Debug\net8.0\calculadora com C#.csproj.CoreCompileInputs.cache
+C:\Users\Amand\OneDrive\Área de Trabalho\calculadora com C#\obj\Debug\net8.0\calculadora com C#.sourcelink.json
+C:\Users\Amand\OneDrive\Área de Trabalho\calculadora com C#\bin\Debug\net8.0\calculadora com C#.exe
+C:\Users\Amand\OneDrive\Área de Trabalho\calculadora com C#\bin\Debug\net8.0\calculadora com C#.deps.json
+C:\Users\Amand\OneDrive\Área de Trabalho\calculadora com C#\bin\Debug\net8.0\calculadora com C#.runtimeconfig.json
+C:\Users\Amand\OneDrive\Área de Trabalho\calculadora com C#\bin\Debug\net8.0\calculadora com C#.dll
+C:\Users\Amand\OneDrive\Área de Trabalho\calculadora com C#\bin\Debug\net8.0\calculadora com C#.pdb
+C:\Users\Amand\OneDrive\Área de Trabalho\calculadora com C#\obj\Debug\net8.0\calculadora com C#.dll
+C:\Users\Amand\OneDrive\Área de Trabalho\calculadora com C#\obj\Debug\net8.0\refint\calculadora com C#.dll
+C:\Users\Amand\OneDrive\Área de Trabalho\calculadora com C#\obj\Debug\net8.0\calculadora com C#.pdb
+C:\Users\Amand\OneDrive\Área de Trabalho\calculadora com C#\obj\Debug\net8.0\calculadora com C#.genruntimeconfig.cache
+C:\Users\Amand\OneDrive\Área de Trabalho\calculadora com C#\obj\Debug\net8.0\ref\calculadora com C#.dll
