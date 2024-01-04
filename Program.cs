@@ -11,3 +11,5 @@ calc.Potencia(3, 3);
 calc.Seno(50);
 calc.Coseno(9);
 calc.Tangente(10);
+
+calc.RaizQuadrada(25);
